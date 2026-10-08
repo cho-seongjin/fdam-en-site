@@ -2343,3 +2343,18 @@ img[src$="logo.png"] { border-radius:0 !important; }
   .dv-browser.dv-tablet::before { top:2px; width:3px; height:3px; margin-left:-1.5px; }
   .dv-browser.dv-tablet > .dv-browser-body,.dv-browser.dv-tablet > .sp-body { border-radius:8px; }
 }
+/* client logo marquee with real logos */
+.logo-marquee-track .logo-chip { width:auto; min-width:0; height:64px; min-height:0; padding:0 26px; display:flex; align-items:center; justify-content:center; flex:0 0 auto; border:0; border-radius:0; background:transparent; }
+.logo-chip img { display:block; width:auto; height:40px; max-width:170px; object-fit:contain; filter:grayscale(1) contrast(1.05); opacity:.62; transition:filter .3s ease,opacity .3s ease; }
+.logo-chip:hover img { filter:none; opacity:1; }
+.logo-marquee-track { gap:6px; }
+.logo-marquee + .logo-marquee { margin-top:14px; }
+@keyframes logoRoll { to { transform:translateX(-50%); } }
+.logo-marquee-track { animation-duration:70s; }
+.logo-marquee.reverse .logo-marquee-track { animation-duration:80s; }
+@media (max-width:760px) {
+  .logo-marquee-track .logo-chip { height:52px; padding:0 16px; }
+  .logo-chip img { height:30px; max-width:120px; }
+  .logo-marquee-track { animation-duration:55s; }
+  .logo-marquee.reverse .logo-marquee-track { animation-duration:62s; }
+}

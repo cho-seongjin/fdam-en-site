@@ -3,7 +3,7 @@ import io, json, re, os, shutil, glob, copy
 from bs4 import BeautifulSoup, NavigableString
 from i18n import parse, units, HANGUL
 
-DIST = os.environ.get('KO_SRC', '../ko-src/')
+DIST = '../dist/'
 OUT = 'out/'
 EN = 'https://en.fdam.co.kr'
 KO = 'https://fdam.co.kr'
@@ -42,6 +42,9 @@ OVERRIDE = {
     '예: 프담프랜차이즈': 'e.g., FDAM Chicken',
 }
 T.update(OVERRIDE)
+if os.path.exists('clients_tr.json'):
+    T.update(json.load(io.open('clients_tr.json', encoding='utf-8')))  # client logo alt text
+
 
 # extra strings that live only inside JSON-LD
 LD_EXTRA = {
@@ -197,7 +200,9 @@ if os.path.isdir(OUT):
     shutil.rmtree(OUT)
 os.makedirs(OUT)
 shutil.copytree(DIST + 'assets', OUT + 'assets')
-shutil.copy('assets-en/en-logo.png', OUT + 'assets/fdam_logo.png')  # English wordmark (FDAM) instead of the Korean one
+shutil.copy('assets-en/en-logo.png', OUT + 'assets/fdam_logo.png')
+if os.path.isdir('assets-en/clients'):
+    shutil.copytree('assets-en/clients', OUT + 'assets/clients')  # English wordmark (FDAM) instead of the Korean one
 if os.path.isdir('assets-en/og'):
     shutil.copytree('assets-en/og', OUT + 'assets/og')
 # the English wordmark is wider than the Korean one; give it a little more width so it keeps its visual weight
