@@ -1,0 +1,1207 @@
+[
+{
+"id": "ai-platform-1",
+"type": "html",
+"ko": "프랜차이즈 AI 플랫폼 프담 | AI 발주 추천·매출 하락·폐점 예측"
+},
+{
+"id": "ai-platform-2",
+"type": "attr",
+"ko": "프담(fdam) AI 플랫폼은 ㈜엠에스벤터의 프랜차이즈 AI 운영 플랫폼 프담에 포함된 AI 기능입니다. POS·배달·발주·재고·운영 데이터로 발주 추천, 매출 하락·폐점 위험 예측, 회의 노트·리뷰 답글·운영 보고서 자동화를 제공합니다."
+},
+{
+"id": "ai-platform-3",
+"type": "html",
+"ko": "예측부터 실행까지,<br/><span>프랜차이즈 AI 플랫폼</span>"
+},
+{
+"id": "ai-platform-4",
+"type": "html",
+"ko": "프담 AI는 매출·발주·재고·운영 데이터를 읽고 발주 추천, 매출 하락·폐점 위험 예측부터 회의 노트, 리뷰 답글, 운영 보고서까지 담당자가 바로 실행할 결과로 만들어 줍니다."
+},
+{
+"id": "ai-platform-5",
+"type": "html",
+"ko": "AI 도입 상담 <span class=\"arrow\">→</span>"
+},
+{
+"id": "ai-platform-6",
+"type": "html",
+"ko": "기능 살펴보기"
+},
+{
+"id": "ai-platform-7",
+"type": "html",
+"ko": "<i class=\"run\"></i>강남 3호점 매출 점검<em>분석 중</em>"
+},
+{
+"id": "ai-platform-8",
+"type": "html",
+"ko": "<i class=\"done\"></i>내일 권장 발주 18품목<em>완료</em>"
+},
+{
+"id": "ai-platform-9",
+"type": "html",
+"ko": "<i class=\"done\"></i>주간 운영 보고서<em>완료</em>"
+},
+{
+"id": "ai-platform-10",
+"type": "html",
+"ko": "<i class=\"wait\"></i>리뷰 답글 초안 12건<em>검토 대기</em>"
+},
+{
+"id": "ai-platform-11",
+"type": "html",
+"ko": "<i class=\"wait\"></i>사입 비중 이상 3개 매장<em>검토 대기</em>"
+},
+{
+"id": "ai-platform-12",
+"type": "html",
+"ko": "이번 주 우선 확인해야 할 매장을 알려줘."
+},
+{
+"id": "ai-platform-13",
+"type": "html",
+"ko": "<i></i>POS·배달앱 5개 채널 매출 동기화<b>1,284 stores</b>"
+},
+{
+"id": "ai-platform-14",
+"type": "html",
+"ko": "<i></i>평소 패턴 대비 이상 신호 감지<b>23 signals</b>"
+},
+{
+"id": "ai-platform-15",
+"type": "html",
+"ko": "<i></i>시간대·채널·메뉴 단위 원인 분해<b>3 factors</b>"
+},
+{
+"id": "ai-platform-16",
+"type": "html",
+"ko": "<i></i>권장 조치와 담당자 업무 생성<b>ready</b>"
+},
+{
+"id": "ai-platform-17",
+"type": "html",
+"ko": "우선 확인 매장 · 01"
+},
+{
+"id": "ai-platform-18",
+"type": "html",
+"ko": "점심 배달 주문 이탈 감지"
+},
+{
+"id": "ai-platform-19",
+"type": "html",
+"ko": "점심 배달 주문 감소와 핵심 품목 재고 편차가 동시에 감지되었습니다."
+},
+{
+"id": "ai-platform-20",
+"type": "html",
+"ko": "원인 분석 보기"
+},
+{
+"id": "ai-platform-21",
+"type": "html",
+"ko": "점검 업무 생성"
+},
+{
+"id": "ai-platform-22",
+"type": "attr",
+"ko": "프담 AI 분석 인터페이스 예시"
+},
+{
+"id": "ai-platform-23",
+"type": "html",
+"ko": "<i></i>30초 요약"
+},
+{
+"id": "ai-platform-24",
+"type": "html",
+"ko": "<b>프담(fdam) AI 플랫폼</b>은 ㈜엠에스벤터의 프랜차이즈 AI 운영 플랫폼 프담에 포함된 AI 기능입니다. 매장별 데이터를 분석해 적정 발주량, 매출 하락과 폐점 위험을 예측하고, 회의 노트·리뷰 답글·운영 보고서 같은 반복 업무를 자동화합니다. 결과와 함께 판단 근거와 권장 조치까지 제시합니다."
+},
+{
+"id": "ai-platform-25",
+"type": "html",
+"ko": "배달의민족"
+},
+{
+"id": "ai-platform-26",
+"type": "html",
+"ko": "쿠팡이츠"
+},
+{
+"id": "ai-platform-27",
+"type": "html",
+"ko": "요기요"
+},
+{
+"id": "ai-platform-28",
+"type": "html",
+"ko": "땡겨요"
+},
+{
+"id": "ai-platform-29",
+"type": "html",
+"ko": "배달특급"
+},
+{
+"id": "ai-platform-30",
+"type": "html",
+"ko": "발주·입고"
+},
+{
+"id": "ai-platform-31",
+"type": "html",
+"ko": "가맹 영업"
+},
+{
+"id": "ai-platform-32",
+"type": "html",
+"ko": "운영 점검"
+},
+{
+"id": "ai-platform-33",
+"type": "html",
+"ko": "리뷰·CS"
+},
+{
+"id": "ai-platform-34",
+"type": "attr",
+"ko": "분석 가능한 데이터 소스"
+},
+{
+"id": "ai-platform-35",
+"type": "html",
+"ko": "프랜차이즈 AI 플랫폼이란?"
+},
+{
+"id": "ai-platform-36",
+"type": "html",
+"ko": "프랜차이즈 AI 플랫폼은 본사와 가맹점의 <mark>매출·주문·발주·재고·운영 데이터</mark>를 통합해 수요와 위험을 예측하고 <mark>다음 행동을 추천</mark>하는 시스템입니다. <mark>프담(fdam)</mark>은 이 AI를 본사 ERP와 가맹점 앱 소담에 함께 넣은 프랜차이즈 AI 운영 플랫폼입니다."
+},
+{
+"id": "ai-platform-37",
+"type": "html",
+"ko": "일반적인 생성형 AI가 질문에 답하는 데 집중한다면, 프담은 실제 운영 데이터의 변화를 계속 읽고 필요한 순간에 먼저 알립니다. 예측 결과는 발주 승인, 매장 점검, 운영 보고서처럼 프담 안의 실제 업무로 바로 이어지고, 최종 판단은 담당자가 내립니다. 프담은 ㈜엠에스벤터가 20여 년간 프랜차이즈 수발주·물류·본사 운영 시스템을 만들어 온 경험 위에서 설계되었습니다."
+},
+{
+"id": "ai-platform-38",
+"type": "html",
+"ko": "무슨 일이 생길까?"
+},
+{
+"id": "ai-platform-39",
+"type": "html",
+"ko": "판매량, 매출 변화, 재고 부족과 매장 위험 가능성을 미리 계산합니다."
+},
+{
+"id": "ai-platform-40",
+"type": "html",
+"ko": "다음 일을 어떻게 할까?"
+},
+{
+"id": "ai-platform-41",
+"type": "html",
+"ko": "발주안, 요약, 답글, 보고서와 후속 업무 초안을 생성합니다."
+},
+{
+"id": "ai-platform-42",
+"type": "html",
+"ko": "예측에서 실행까지<br/>이어지는 AI 기능"
+},
+{
+"id": "ai-platform-43",
+"type": "html",
+"ko": "각 기능은 결과만 보여주지 않습니다. 어떤 데이터를 읽었는지, 왜 이런 결과가 나왔는지, 담당자가 무엇을 확인해야 하는지까지 하나의 흐름으로 제공합니다."
+},
+{
+"id": "ai-platform-44",
+"type": "html",
+"ko": "AI 운영 보고서"
+},
+{
+"id": "ai-platform-45",
+"type": "attr",
+"ko": "AI 기능 바로가기"
+},
+{
+"id": "ai-platform-46",
+"type": "html",
+"ko": "매장별 판매 흐름과 재고 상황을 분석해 품목별 예상 수요와 권장 발주량을 계산합니다. 담당자는 추천 근거와 변동 요인을 확인한 뒤 발주안에 바로 반영할 수 있습니다."
+},
+{
+"id": "ai-platform-47",
+"type": "html",
+"ko": "분석 데이터"
+},
+{
+"id": "ai-platform-48",
+"type": "html",
+"ko": "판매 이력, 현재 재고, 입고 예정, 요일·시즌 패턴"
+},
+{
+"id": "ai-platform-49",
+"type": "html",
+"ko": "제공 결과"
+},
+{
+"id": "ai-platform-50",
+"type": "html",
+"ko": "품목별 예상 수요, 권장 수량, 품절·과잉 위험"
+},
+{
+"id": "ai-platform-51",
+"type": "html",
+"ko": "다음 행동"
+},
+{
+"id": "ai-platform-52",
+"type": "html",
+"ko": "추천안 검토 후 소담에서 발주 승인"
+},
+{
+"id": "ai-platform-53",
+"type": "html",
+"ko": "검증"
+},
+{
+"id": "ai-platform-54",
+"type": "html",
+"ko": "추천 정확도 90%*"
+},
+{
+"id": "ai-platform-55",
+"type": "html",
+"ko": "*자체 연구소, 고객사 실데이터 기준 검증"
+},
+{
+"id": "ai-platform-56",
+"type": "html",
+"ko": "내일 권장 발주 · 강남점"
+},
+{
+"id": "ai-platform-57",
+"type": "html",
+"ko": "AI 추천"
+},
+{
+"id": "ai-platform-58",
+"type": "html",
+"ko": "자동 계산"
+},
+{
+"id": "ai-platform-59",
+"type": "html",
+"ko": "예상 수요"
+},
+{
+"id": "ai-platform-60",
+"type": "html",
+"ko": "주말 영향"
+},
+{
+"id": "ai-platform-61",
+"type": "html",
+"ko": "품절 위험"
+},
+{
+"id": "ai-platform-62",
+"type": "html",
+"ko": "2품목"
+},
+{
+"id": "ai-platform-63",
+"type": "html",
+"ko": "발주 필요"
+},
+{
+"id": "ai-platform-64",
+"type": "html",
+"ko": "품목"
+},
+{
+"id": "ai-platform-65",
+"type": "html",
+"ko": "재고 · 예상 수요"
+},
+{
+"id": "ai-platform-66",
+"type": "html",
+"ko": "권장"
+},
+{
+"id": "ai-platform-67",
+"type": "html",
+"ko": "닭가슴살"
+},
+{
+"id": "ai-platform-68",
+"type": "html",
+"ko": "소스 A"
+},
+{
+"id": "ai-platform-69",
+"type": "html",
+"ko": "포장 용기"
+},
+{
+"id": "ai-platform-70",
+"type": "html",
+"ko": "토요일 판매 +18%"
+},
+{
+"id": "ai-platform-71",
+"type": "html",
+"ko": "입고 예정 없음"
+},
+{
+"id": "ai-platform-72",
+"type": "html",
+"ko": "소담으로 발주안 전송"
+},
+{
+"id": "ai-platform-73",
+"type": "html",
+"ko": "영업 상담과 운영 회의 내용을 요약하고 결정 사항, 담당자와 기한을 구조화합니다. 회의 기록이 문서에서 끝나지 않고 실제 후속 업무로 연결됩니다."
+},
+{
+"id": "ai-platform-74",
+"type": "html",
+"ko": "입력 정보"
+},
+{
+"id": "ai-platform-75",
+"type": "html",
+"ko": "회의 녹취, 메모, 참석자와 안건"
+},
+{
+"id": "ai-platform-76",
+"type": "html",
+"ko": "핵심 요약, 결정 사항, 담당자별 할 일"
+},
+{
+"id": "ai-platform-77",
+"type": "html",
+"ko": "본사 운영 일정과 담당자 업무로 등록"
+},
+{
+"id": "ai-platform-78",
+"type": "html",
+"ko": "운영 회의 · 10월 1일 · 42분"
+},
+{
+"id": "ai-platform-79",
+"type": "html",
+"ko": "요약 완료"
+},
+{
+"id": "ai-platform-80",
+"type": "html",
+"ko": "핵심 요약"
+},
+{
+"id": "ai-platform-81",
+"type": "html",
+"ko": "신메뉴 출시 전 매장 교육 일정과 매출이 떨어진 강남 3호점 대응 방안을 논의했습니다."
+},
+{
+"id": "ai-platform-82",
+"type": "html",
+"ko": "결정 사항"
+},
+{
+"id": "ai-platform-83",
+"type": "html",
+"ko": "신메뉴 교육을 10월 2주 차로 확정"
+},
+{
+"id": "ai-platform-84",
+"type": "html",
+"ko": "강남 3호점 운영 점검을 우선 진행"
+},
+{
+"id": "ai-platform-85",
+"type": "html",
+"ko": "담당자별 할 일"
+},
+{
+"id": "ai-platform-86",
+"type": "html",
+"ko": "김"
+},
+{
+"id": "ai-platform-87",
+"type": "html",
+"ko": "강남 3호점 방문 점검"
+},
+{
+"id": "ai-platform-88",
+"type": "html",
+"ko": "교"
+},
+{
+"id": "ai-platform-89",
+"type": "html",
+"ko": "신메뉴 교육 자료 배포"
+},
+{
+"id": "ai-platform-90",
+"type": "html",
+"ko": "물"
+},
+{
+"id": "ai-platform-91",
+"type": "html",
+"ko": "소스 A 공급 일정 확인"
+},
+{
+"id": "ai-platform-92",
+"type": "html",
+"ko": "후속 업무 3건 생성 · 담당자 알림 발송"
+},
+{
+"id": "ai-platform-93",
+"type": "html",
+"ko": "기간별 실적과 주요 변화, 위험 매장과 권장 조치를 읽기 쉬운 보고서로 구성합니다. 경영진용 요약과 실무 담당자용 상세 내용을 같은 데이터에서 생성할 수 있습니다."
+},
+{
+"id": "ai-platform-94",
+"type": "html",
+"ko": "통합 매출, 운영 지표, AI 신호와 처리 결과"
+},
+{
+"id": "ai-platform-95",
+"type": "html",
+"ko": "핵심 요약, 변화 원인, 매장 순위, 권장 조치"
+},
+{
+"id": "ai-platform-96",
+"type": "html",
+"ko": "주간·월간 보고 공유와 후속 업무 추적"
+},
+{
+"id": "ai-platform-97",
+"type": "html",
+"ko": "주간 운영 보고서 · 9월 4주차"
+},
+{
+"id": "ai-platform-98",
+"type": "html",
+"ko": "AI 생성"
+},
+{
+"id": "ai-platform-99",
+"type": "html",
+"ko": "전체 매출"
+},
+{
+"id": "ai-platform-100",
+"type": "html",
+"ko": "₩12.8억"
+},
+{
+"id": "ai-platform-101",
+"type": "html",
+"ko": "3곳"
+},
+{
+"id": "ai-platform-102",
+"type": "html",
+"ko": "확인 필요"
+},
+{
+"id": "ai-platform-103",
+"type": "html",
+"ko": "권장 조치"
+},
+{
+"id": "ai-platform-104",
+"type": "html",
+"ko": "8건"
+},
+{
+"id": "ai-platform-105",
+"type": "html",
+"ko": "담당자 배정"
+},
+{
+"id": "ai-platform-106",
+"type": "html",
+"ko": "이번 주"
+},
+{
+"id": "ai-platform-107",
+"type": "html",
+"ko": "지난주"
+},
+{
+"id": "ai-platform-108",
+"type": "html",
+"ko": "단순한 전주 대비가 아니라 평소 매출 패턴에서 벗어난 변화를 감지합니다. 매장, 시간대, 판매 채널과 메뉴 단위로 원인을 좁혀 우선 확인할 지점을 알려줍니다."
+},
+{
+"id": "ai-platform-109",
+"type": "html",
+"ko": "POS·배달앱 매출, 주문 수, 객단가, 메뉴 구성"
+},
+{
+"id": "ai-platform-110",
+"type": "html",
+"ko": "하락 신호, 기여 요인, 영향이 큰 시간·채널"
+},
+{
+"id": "ai-platform-111",
+"type": "html",
+"ko": "담당자 점검 업무와 원인 분석 보고서 생성"
+},
+{
+"id": "ai-platform-112",
+"type": "html",
+"ko": "강남 3호점 · 매출 이상 신호"
+},
+{
+"id": "ai-platform-113",
+"type": "html",
+"ko": "예상 매출 대비 · 최근 3주"
+},
+{
+"id": "ai-platform-114",
+"type": "html",
+"ko": "예상 범위"
+},
+{
+"id": "ai-platform-115",
+"type": "html",
+"ko": "실제 매출"
+},
+{
+"id": "ai-platform-116",
+"type": "html",
+"ko": "하락 기여 요인"
+},
+{
+"id": "ai-platform-117",
+"type": "html",
+"ko": "저녁 홀 매출"
+},
+{
+"id": "ai-platform-118",
+"type": "html",
+"ko": "<span class=\"xui-spark\">AI</span>점심 배달 주문 감소가 하락의 68%를 차지합니다. 배달 채널 점검을 먼저 권장합니다."
+},
+{
+"id": "ai-platform-119",
+"type": "html",
+"ko": "장기간 누적되는 매출과 운영 변화를 종합해 집중 관리가 필요한 매장을 선별합니다. 하나의 수치로 단정하지 않고 위험을 높인 요인과 추세를 함께 보여줍니다."
+},
+{
+"id": "ai-platform-120",
+"type": "html",
+"ko": "장기 매출 추세, 운영 이력, 계약 및 관리 지표"
+},
+{
+"id": "ai-platform-121",
+"type": "html",
+"ko": "매장별 위험 단계, 변화 추이, 주요 영향 요인"
+},
+{
+"id": "ai-platform-122",
+"type": "html",
+"ko": "슈퍼바이저 방문 우선순위와 점검 항목 제안"
+},
+{
+"id": "ai-platform-123",
+"type": "html",
+"ko": "폐점 위험 예측 · 판교점"
+},
+{
+"id": "ai-platform-124",
+"type": "html",
+"ko": "월간 분석"
+},
+{
+"id": "ai-platform-125",
+"type": "html",
+"ko": "위험 점수"
+},
+{
+"id": "ai-platform-126",
+"type": "html",
+"ko": "주의 단계"
+},
+{
+"id": "ai-platform-127",
+"type": "html",
+"ko": "최근 3개월 위험 점수가 <b>48 → 72</b>로 올랐습니다."
+},
+{
+"id": "ai-platform-128",
+"type": "html",
+"ko": "매출 추세"
+},
+{
+"id": "ai-platform-129",
+"type": "html",
+"ko": "12주 연속 하락"
+},
+{
+"id": "ai-platform-130",
+"type": "html",
+"ko": "발주 빈도"
+},
+{
+"id": "ai-platform-131",
+"type": "html",
+"ko": "전월 대비 −24%"
+},
+{
+"id": "ai-platform-132",
+"type": "html",
+"ko": "고객 평점"
+},
+{
+"id": "ai-platform-133",
+"type": "html",
+"ko": "권장 조치 · 1주 내 슈퍼바이저 방문"
+},
+{
+"id": "ai-platform-134",
+"type": "html",
+"ko": "본사 공급 품목과 외부 구매 내역, 판매 흐름을 비교해 비정상적인 구매 패턴과 비용 누수 가능성을 찾습니다. 확인이 필요한 품목과 매장을 빠르게 좁힐 수 있습니다."
+},
+{
+"id": "ai-platform-135",
+"type": "html",
+"ko": "발주·입고·재고·판매 및 거래처별 구매 데이터"
+},
+{
+"id": "ai-platform-136",
+"type": "html",
+"ko": "사입 비중, 품목별 편차, 비정상 구매 패턴"
+},
+{
+"id": "ai-platform-137",
+"type": "html",
+"ko": "원가·재고 점검과 담당 매장 확인 요청"
+},
+{
+"id": "ai-platform-138",
+"type": "html",
+"ko": "사입 분석 · 9월"
+},
+{
+"id": "ai-platform-139",
+"type": "html",
+"ko": "이상 패턴 2건"
+},
+{
+"id": "ai-platform-140",
+"type": "html",
+"ko": "전체 사입 비중"
+},
+{
+"id": "ai-platform-141",
+"type": "html",
+"ko": "확인 필요 금액"
+},
+{
+"id": "ai-platform-142",
+"type": "html",
+"ko": "₩1,240만"
+},
+{
+"id": "ai-platform-143",
+"type": "html",
+"ko": "4개 매장"
+},
+{
+"id": "ai-platform-144",
+"type": "html",
+"ko": "본사 공급"
+},
+{
+"id": "ai-platform-145",
+"type": "html",
+"ko": "외부 사입"
+},
+{
+"id": "ai-platform-146",
+"type": "html",
+"ko": "육류"
+},
+{
+"id": "ai-platform-147",
+"type": "html",
+"ko": "소스"
+},
+{
+"id": "ai-platform-148",
+"type": "html",
+"ko": "포장재"
+},
+{
+"id": "ai-platform-149",
+"type": "html",
+"ko": "판교점 · 소스"
+},
+{
+"id": "ai-platform-150",
+"type": "html",
+"ko": "외부 구매가 전월보다 41% 늘었습니다"
+},
+{
+"id": "ai-platform-151",
+"type": "html",
+"ko": "홍대점 · 포장재"
+},
+{
+"id": "ai-platform-152",
+"type": "html",
+"ko": "판매는 그대로인데 본사 발주가 3주째 없습니다"
+},
+{
+"id": "ai-platform-153",
+"type": "html",
+"ko": "리뷰의 평가와 핵심 내용을 파악하고 브랜드의 응대 원칙과 말투에 맞는 답글 초안을 만듭니다. 매장별 반복 응대 시간을 줄이면서 답변 품질을 일정하게 유지합니다."
+},
+{
+"id": "ai-platform-154",
+"type": "html",
+"ko": "별점, 리뷰 본문, 매장과 브랜드 응대 가이드"
+},
+{
+"id": "ai-platform-155",
+"type": "html",
+"ko": "리뷰 요약, 감정 분류, 맞춤형 답글 초안"
+},
+{
+"id": "ai-platform-156",
+"type": "html",
+"ko": "담당자 검토 후 채널에 답글 등록"
+},
+{
+"id": "ai-platform-157",
+"type": "html",
+"ko": "고객 리뷰 · 배달앱 · 강남점"
+},
+{
+"id": "ai-platform-158",
+"type": "html",
+"ko": "주문하고 30분 만에 도착했는데 치킨이 아직 따뜻하고 바삭했어요. 소스도 넉넉하게 챙겨 주셔서 아이들이 정말 좋아했습니다. 다만 포장 봉투가 조금 찢어져 와서 그 부분만 아쉬웠어요."
+},
+{
+"id": "ai-platform-159",
+"type": "html",
+"ko": "맛 · 온도"
+},
+{
+"id": "ai-platform-160",
+"type": "html",
+"ko": "배달 속도"
+},
+{
+"id": "ai-platform-161",
+"type": "html",
+"ko": "포장 상태"
+},
+{
+"id": "ai-platform-162",
+"type": "html",
+"ko": "<span class=\"xui-spark\">AI</span>답글 초안"
+},
+{
+"id": "ai-platform-163",
+"type": "html",
+"ko": "소중한 리뷰 감사합니다! 따뜻하고 바삭한 상태로 전해 드릴 수 있어 저희도 기쁩니다. 말씀해 주신 포장 봉투는 더 튼튼한 제품으로 바로 점검하겠습니다. 다음 주문도 만족스럽게 준비할게요."
+},
+{
+"id": "ai-platform-164",
+"type": "html",
+"ko": "브랜드 말투 적용 · 불편 사항 응대 포함"
+},
+{
+"id": "ai-platform-165",
+"type": "html",
+"ko": "검토 후 등록"
+},
+{
+"id": "ai-platform-166",
+"type": "html",
+"ko": "리뷰와 고객 의견도<br/>운영 데이터가 됩니다"
+},
+{
+"id": "ai-platform-167",
+"type": "html",
+"ko": "여러 배달 채널의 고객 반응을 매장과 브랜드 단위로 모으고, 반복되는 의견을 분류해 매장 개선과 일관된 고객 응대로 연결합니다."
+},
+{
+"id": "ai-platform-168",
+"type": "html",
+"ko": "배달 리뷰 통합"
+},
+{
+"id": "ai-platform-169",
+"type": "html",
+"ko": "배달앱별 리뷰와 별점, 작성 시점과 답변 여부를 한곳에 모읍니다. 매장별 평점 변화와 미답변 리뷰를 확인하고 여러 채널의 고객 반응을 같은 기준으로 비교합니다."
+},
+{
+"id": "ai-platform-170",
+"type": "html",
+"ko": "배달의민족 <em>4.8</em>"
+},
+{
+"id": "ai-platform-171",
+"type": "html",
+"ko": "쿠팡이츠 <em>4.6</em>"
+},
+{
+"id": "ai-platform-172",
+"type": "html",
+"ko": "요기요 <em>4.7</em>"
+},
+{
+"id": "ai-platform-173",
+"type": "html",
+"ko": "미답변 <em>12</em>"
+},
+{
+"id": "ai-platform-174",
+"type": "html",
+"ko": "확인 정보"
+},
+{
+"id": "ai-platform-175",
+"type": "html",
+"ko": "별점·리뷰 본문·작성 시점·답변 상태"
+},
+{
+"id": "ai-platform-176",
+"type": "html",
+"ko": "활용"
+},
+{
+"id": "ai-platform-177",
+"type": "html",
+"ko": "매장별 평판 변화와 응대 누락 확인"
+},
+{
+"id": "ai-platform-178",
+"type": "html",
+"ko": "고객 의견 분석"
+},
+{
+"id": "ai-platform-179",
+"type": "html",
+"ko": "맛, 포장, 배달과 서비스처럼 반복되는 의견을 유형별로 분류합니다. 특정 매장이나 기간에 증가한 이슈를 찾아 운영 담당자가 먼저 확인할 개선 과제를 제시합니다."
+},
+{
+"id": "ai-platform-180",
+"type": "html",
+"ko": "맛"
+},
+{
+"id": "ai-platform-181",
+"type": "html",
+"ko": "긍정 78%"
+},
+{
+"id": "ai-platform-182",
+"type": "html",
+"ko": "포장"
+},
+{
+"id": "ai-platform-183",
+"type": "html",
+"ko": "긍정 54%"
+},
+{
+"id": "ai-platform-184",
+"type": "html",
+"ko": "부정 증가"
+},
+{
+"id": "ai-platform-185",
+"type": "html",
+"ko": "분석 정보"
+},
+{
+"id": "ai-platform-186",
+"type": "html",
+"ko": "리뷰·CS·키워드·감정·발생 빈도"
+},
+{
+"id": "ai-platform-187",
+"type": "html",
+"ko": "반복 이슈 발견과 매장 개선 우선순위"
+},
+{
+"id": "ai-platform-188",
+"type": "html",
+"ko": "데이터에서 업무까지 이어지는 방식"
+},
+{
+"id": "ai-platform-189",
+"type": "html",
+"ko": "데이터 연결"
+},
+{
+"id": "ai-platform-190",
+"type": "html",
+"ko": "POS, 배달앱, 발주·재고, 영업·오픈·운영 데이터를 권한에 맞게 연결합니다."
+},
+{
+"id": "ai-platform-191",
+"type": "html",
+"ko": "패턴 학습"
+},
+{
+"id": "ai-platform-192",
+"type": "html",
+"ko": "매장과 상품별 판매 흐름, 반복 주기와 변동 요인을 학습할 수 있는 형태로 정리합니다."
+},
+{
+"id": "ai-platform-193",
+"type": "html",
+"ko": "신호 감지와 예측"
+},
+{
+"id": "ai-platform-194",
+"type": "html",
+"ko": "평소와 다른 변화를 감지하고 미래 수요 또는 위험 가능성을 계산합니다."
+},
+{
+"id": "ai-platform-195",
+"type": "html",
+"ko": "이유와 조치 설명"
+},
+{
+"id": "ai-platform-196",
+"type": "html",
+"ko": "결과만 표시하지 않고 판단에 영향을 준 주요 요인과 확인할 데이터를 함께 제시합니다."
+},
+{
+"id": "ai-platform-197",
+"type": "html",
+"ko": "사용자 확인 후 실행"
+},
+{
+"id": "ai-platform-198",
+"type": "html",
+"ko": "담당자가 추천안을 검토하고 승인해 발주, 보고, 응대 등 실제 업무로 이어갑니다."
+},
+{
+"id": "ai-platform-199",
+"type": "html",
+"ko": "어떤 데이터를<br/>분석하나요?"
+},
+{
+"id": "ai-platform-200",
+"type": "html",
+"ko": "프담은 브랜드가 보유하고 실제 연동 가능한 데이터를 기준으로 분석 범위를 설계합니다. 데이터가 많다는 사실보다 같은 기준으로 정리되고 업무 맥락과 연결되는지가 중요합니다."
+},
+{
+"id": "ai-platform-201",
+"type": "html",
+"ko": "매출"
+},
+{
+"id": "ai-platform-202",
+"type": "html",
+"ko": "POS, 특수상권, 배달의민족, 땡겨요, 요기요, 쿠팡이츠, 배달특급"
+},
+{
+"id": "ai-platform-203",
+"type": "html",
+"ko": "상품·물류"
+},
+{
+"id": "ai-platform-204",
+"type": "html",
+"ko": "발주, 입고, 출고, 재고, 상품과 거래처 데이터"
+},
+{
+"id": "ai-platform-205",
+"type": "html",
+"ko": "가맹 영업, 계약, 오픈 일정, 운영 점검과 커뮤니케이션 이력"
+},
+{
+"id": "ai-platform-206",
+"type": "html",
+"ko": "고객 반응"
+},
+{
+"id": "ai-platform-207",
+"type": "html",
+"ko": "리뷰, CS, 캠페인 및 기타 연동 가능한 비정형 데이터"
+},
+{
+"id": "ai-platform-208",
+"type": "html",
+"ko": "역할에 따라 다른 답을 제공합니다"
+},
+{
+"id": "ai-platform-209",
+"type": "html",
+"ko": "경영진"
+},
+{
+"id": "ai-platform-210",
+"type": "html",
+"ko": "브랜드 전체 실적과 위험 매장을 요약하고 우선 확인할 경영 이슈를 파악합니다."
+},
+{
+"id": "ai-platform-211",
+"type": "html",
+"ko": "운영 담당자"
+},
+{
+"id": "ai-platform-212",
+"type": "html",
+"ko": "매출 하락 징후, 점검 이력과 가맹점 이슈를 연결해 다음 조치를 결정합니다."
+},
+{
+"id": "ai-platform-213",
+"type": "html",
+"ko": "구매·SCM 담당자"
+},
+{
+"id": "ai-platform-214",
+"type": "html",
+"ko": "수요 예측과 발주·재고 흐름을 기반으로 품절과 과잉 재고 위험을 줄입니다."
+},
+{
+"id": "ai-platform-215",
+"type": "html",
+"ko": "가맹점주"
+},
+{
+"id": "ai-platform-216",
+"type": "html",
+"ko": "소담에서 AI 추천 발주량과 매출·재고 알림을 확인한 뒤 간편하게 실행합니다."
+},
+{
+"id": "ai-platform-217",
+"type": "html",
+"ko": "AI 정확도는<br/>어떻게 확인하나요?"
+},
+{
+"id": "ai-platform-218",
+"type": "html",
+"ko": "예측 정확도는 기능, 품목, 매장, 학습 기간과 데이터 품질에 따라 달라집니다. 프담은 AI가 제시한 권장 발주량과 실제 판매·재고 결과를 비교해 정확도를 검증하고, 도입 후에도 매장과 품목별로 같은 방식으로 계속 확인합니다."
+},
+{
+"id": "ai-platform-219",
+"type": "html",
+"ko": "AI도 기존 권한 안에서<br/>작동해야 합니다"
+},
+{
+"id": "ai-platform-220",
+"type": "html",
+"ko": "본사와 가맹점, 부서와 담당자마다 볼 수 있는 데이터가 다릅니다. 프담 AI는 기존 사용자 권한과 감사 체계를 기준으로 필요한 범위의 데이터만 활용하도록 설계할 수 있습니다."
+},
+{
+"id": "ai-platform-221",
+"type": "html",
+"ko": "권한 기반 접근"
+},
+{
+"id": "ai-platform-222",
+"type": "html",
+"ko": "사용자의 역할과 매장 범위에 따라 조회 가능한 데이터를 제한합니다."
+},
+{
+"id": "ai-platform-223",
+"type": "html",
+"ko": "사람의 최종 승인"
+},
+{
+"id": "ai-platform-224",
+"type": "html",
+"ko": "발주나 외부 응답처럼 중요한 실행은 담당자가 확인하고 결정합니다."
+},
+{
+"id": "ai-platform-225",
+"type": "html",
+"ko": "프랜차이즈 AI<br/>도입 FAQ"
+},
+{
+"id": "ai-platform-226",
+"type": "html",
+"ko": "프랜차이즈 AI 플랫폼이란 무엇인가요?"
+},
+{
+"id": "ai-platform-227",
+"type": "html",
+"ko": "매출, 발주, 재고, 영업과 운영 데이터를 통합 분석해 수요와 위험을 예측하고 다음 업무를 추천하는 프랜차이즈 전용 AI 시스템입니다. 프담(fdam)은 이 AI를 본사 ERP와 가맹점 앱 소담에 함께 넣어, 예측 결과가 발주·점검·보고 업무로 바로 이어지게 한 프랜차이즈 AI 운영 플랫폼입니다."
+},
+{
+"id": "ai-platform-228",
+"type": "html",
+"ko": "프담 AI는 일반 AI 도구와 무엇이 다른가요?"
+},
+{
+"id": "ai-platform-229",
+"type": "html",
+"ko": "범용 AI 도구는 질문에 답하지만, 프담 AI는 프담에 연결된 POS·배달앱 매출과 발주·재고·본사 운영 데이터를 직접 읽고 변화가 생기면 먼저 알립니다. 결과는 소담 발주 승인, 슈퍼바이저 점검 업무, 운영 보고서처럼 프담 안에서 바로 실행됩니다."
+},
+{
+"id": "ai-platform-230",
+"type": "html",
+"ko": "기존 POS나 ERP를 교체해야 하나요?"
+},
+{
+"id": "ai-platform-231",
+"type": "html",
+"ko": "반드시 교체해야 하는 것은 아닙니다. 프담은 기존 POS·ERP를 연결하는 방식을 먼저 검토하며, 현재 시스템의 연동 가능 방식과 데이터 범위를 확인한 뒤 API 연동 또는 파일 기반 수집 등 적합한 방식을 설계합니다."
+},
+{
+"id": "ai-platform-232",
+"type": "html",
+"ko": "AI 발주 추천 정확도는 어떻게 검증하나요?"
+},
+{
+"id": "ai-platform-233",
+"type": "html",
+"ko": "프담 AI가 제시한 권장 발주량과 실제 판매·재고 결과를 비교해 검증합니다. 정확도는 매장, 품목, 학습 기간과 데이터 품질에 따라 달라지므로 도입 후에도 같은 방식으로 계속 확인합니다. 자체 연구소가 고객사 실데이터로 검증한 추천 정확도는 90%입니다."
+},
+{
+"id": "ai-platform-234",
+"type": "html",
+"ko": "AI 발주 추천은 자동으로 주문까지 하나요?"
+},
+{
+"id": "ai-platform-235",
+"type": "html",
+"ko": "프담 AI는 권장 발주안을 먼저 제시하고, 가맹점주가 소담에서 확인·승인하는 방식을 기본으로 합니다. 실제 자동화 범위는 브랜드 정책에 맞춰 결정합니다."
+},
+{
+"id": "ai-platform-236",
+"type": "html",
+"ko": "데이터가 많지 않아도 시작할 수 있나요?"
+},
+{
+"id": "ai-platform-237",
+"type": "html",
+"ko": "가능합니다. 프담은 확보된 데이터의 기간과 품질을 먼저 진단하고, 규칙 기반 추천 또는 제한된 범위의 모델부터 단계적으로 시작할 수 있습니다."
+},
+{
+"id": "ai-platform-238",
+"type": "html",
+"ko": "모든 AI 기능이 바로 제공되나요?"
+},
+{
+"id": "ai-platform-239",
+"type": "html",
+"ko": "프담 AI 기능별 제공 상태와 적용 조건은 다를 수 있습니다. 현재 제공, 베타, 맞춤 구축, 출시 예정 기능을 상담 단계에서 명확히 구분해 안내합니다."
+},
+{
+"id": "ai-platform-240",
+"type": "html",
+"ko": "우리 데이터로 가능한 AI,<br/>먼저 확인해 보세요."
+},
+{
+"id": "ai-platform-241",
+"type": "html",
+"ko": "보유 데이터와 우선 해결 과제를 기준으로 현실적인 도입 범위를 제안합니다."
+}
+]

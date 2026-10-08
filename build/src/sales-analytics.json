@@ -1,0 +1,632 @@
+[
+{
+"id": "sales-analytics-1",
+"type": "html",
+"ko": "프랜차이즈 통합 매출 분석 프담 | POS·배달앱 매출 한 화면 조회"
+},
+{
+"id": "sales-analytics-2",
+"type": "attr",
+"ko": "프담(fdam)은 POS, 특수상권, 배달의민족, 땡겨요, 요기요, 쿠팡이츠, 배달특급 매출을 한 화면에서 조회하고 브랜드·매장·채널별로 비교하는 ㈜엠에스벤터의 프랜차이즈 통합 매출 분석 솔루션입니다."
+},
+{
+"id": "sales-analytics-3",
+"type": "html",
+"ko": "흩어진 모든 매출을<br/><span class=\"gradient-text\">하나의 숫자로.</span>"
+},
+{
+"id": "sales-analytics-4",
+"type": "html",
+"ko": "POS, 특수상권과 주요 배달앱 매출을 한 화면에서 조회하고 브랜드 전체에서 매장 하나까지 같은 기준으로 비교합니다."
+},
+{
+"id": "sales-analytics-5",
+"type": "html",
+"ko": "매출 연동 상담"
+},
+{
+"id": "sales-analytics-6",
+"type": "html",
+"ko": "지원 채널 보기"
+},
+{
+"id": "sales-analytics-7",
+"type": "html",
+"ko": "<b>프랜차이즈 통합 매출 분석</b>은 POS, 특수상권과 배달앱에 나뉜 매출 데이터를 한곳에 모아 브랜드·매장·기간·채널·메뉴별로 조회하고 비교하는 일입니다. <b>프담(fdam)</b>은 POS·특수상권과 배달의민족·쿠팡이츠·요기요·땡겨요·배달특급 매출을 한 화면에 모으고, 통합된 데이터를 AI 예측과 연결해 매출 하락 징후와 확인할 매장을 먼저 찾아줍니다."
+},
+{
+"id": "sales-analytics-8",
+"type": "html",
+"ko": "통합 매출이란?"
+},
+{
+"id": "sales-analytics-9",
+"type": "html",
+"ko": "통합 대시보드"
+},
+{
+"id": "sales-analytics-10",
+"type": "html",
+"ko": "조회 채널"
+},
+{
+"id": "sales-analytics-11",
+"type": "html",
+"ko": "분석 기준"
+},
+{
+"id": "sales-analytics-12",
+"type": "html",
+"ko": "연동 방식"
+},
+{
+"id": "sales-analytics-13",
+"type": "html",
+"ko": "AI 분석 연결"
+},
+{
+"id": "sales-analytics-14",
+"type": "html",
+"ko": "사용자별 활용"
+},
+{
+"id": "sales-analytics-15",
+"type": "html",
+"ko": "통합 매출 분석이란?"
+},
+{
+"id": "sales-analytics-16",
+"type": "html",
+"ko": "프랜차이즈 통합 매출 분석은 POS, 특수상권과 각 배달앱의 매출 데이터를 공통 기준으로 정리해 브랜드 전체와 개별 매장의 실적을 한 화면에서 조회하고 비교하는 분석 방식입니다. 프담은 이 통합 매출 데이터를 본사 운영·가맹점 발주 데이터와 함께 관리해, 매출 변화의 원인을 운영 현장까지 추적할 수 있게 합니다."
+},
+{
+"id": "sales-analytics-17",
+"type": "html",
+"ko": "채널마다 조회 기간과 정산 기준이 다르면 담당자는 매일 여러 관리자 페이지와 파일을 오가야 합니다. 프담은 연동 가능한 데이터를 한곳에 모아 전체 매출과 채널별 기여도, 매장 간 차이와 시간에 따른 변화를 같은 흐름에서 확인하도록 구성합니다."
+},
+{
+"id": "sales-analytics-18",
+"type": "html",
+"ko": "브랜드 전체"
+},
+{
+"id": "sales-analytics-19",
+"type": "html",
+"ko": "통합 조회"
+},
+{
+"id": "sales-analytics-20",
+"type": "html",
+"ko": "매장·채널"
+},
+{
+"id": "sales-analytics-21",
+"type": "html",
+"ko": "교차 비교"
+},
+{
+"id": "sales-analytics-22",
+"type": "html",
+"ko": "이상 징후"
+},
+{
+"id": "sales-analytics-23",
+"type": "html",
+"ko": "AI 연결"
+},
+{
+"id": "sales-analytics-24",
+"type": "html",
+"ko": "숫자를 모으는 시간을<br/>판단하는 시간으로"
+},
+{
+"id": "sales-analytics-25",
+"type": "html",
+"ko": "전체, POS, 특수상권, 배달앱 탭을 눌러 채널별 매출 화면이 어떻게 달라지는지 바로 확인할 수 있습니다."
+},
+{
+"id": "sales-analytics-26",
+"type": "html",
+"ko": "브랜드 매출 분석"
+},
+{
+"id": "sales-analytics-27",
+"type": "html",
+"ko": "전체"
+},
+{
+"id": "sales-analytics-28",
+"type": "attr",
+"ko": "매출 채널 선택"
+},
+{
+"id": "sales-analytics-29",
+"type": "html",
+"ko": "최근 8주 통합 매출"
+},
+{
+"id": "sales-analytics-30",
+"type": "html",
+"ko": "확인이 필요한 매장"
+},
+{
+"id": "sales-analytics-31",
+"type": "html",
+"ko": "마곡점"
+},
+{
+"id": "sales-analytics-32",
+"type": "html",
+"ko": "최근 8주 POS 매출"
+},
+{
+"id": "sales-analytics-33",
+"type": "html",
+"ko": "전주 대비"
+},
+{
+"id": "sales-analytics-34",
+"type": "html",
+"ko": "총 결제 건수"
+},
+{
+"id": "sales-analytics-35",
+"type": "html",
+"ko": "42,861건"
+},
+{
+"id": "sales-analytics-36",
+"type": "html",
+"ko": "평균 객단가"
+},
+{
+"id": "sales-analytics-37",
+"type": "html",
+"ko": "피크 타임"
+},
+{
+"id": "sales-analytics-38",
+"type": "html",
+"ko": "특수상권 유형별 매출"
+},
+{
+"id": "sales-analytics-39",
+"type": "html",
+"ko": "백화점"
+},
+{
+"id": "sales-analytics-40",
+"type": "html",
+"ko": "공항"
+},
+{
+"id": "sales-analytics-41",
+"type": "html",
+"ko": "휴게소"
+},
+{
+"id": "sales-analytics-42",
+"type": "html",
+"ko": "매출 상위 특수매장"
+},
+{
+"id": "sales-analytics-43",
+"type": "html",
+"ko": "인천공항 T2점"
+},
+{
+"id": "sales-analytics-44",
+"type": "html",
+"ko": "판교 백화점"
+},
+{
+"id": "sales-analytics-45",
+"type": "html",
+"ko": "여주 휴게소점"
+},
+{
+"id": "sales-analytics-46",
+"type": "html",
+"ko": "김포공항점"
+},
+{
+"id": "sales-analytics-47",
+"type": "html",
+"ko": "배달앱 채널별 매출"
+},
+{
+"id": "sales-analytics-48",
+"type": "html",
+"ko": "시간대별 주문 비중"
+},
+{
+"id": "sales-analytics-49",
+"type": "attr",
+"ko": "채널별 매출 대시보드 예시"
+},
+{
+"id": "sales-analytics-50",
+"type": "html",
+"ko": "채널마다 다른 매출을<br/>같은 기준으로 연결합니다"
+},
+{
+"id": "sales-analytics-51",
+"type": "html",
+"ko": "POS, 배달앱과 특수상권은 수집 방식과 정산 구조가 다릅니다. 프담은 채널별 데이터를 매장·일자·주문 기준으로 표준화해 비교 가능한 매출 정보로 구성합니다."
+},
+{
+"id": "sales-analytics-52",
+"type": "html",
+"ko": "POS 매출 연결"
+},
+{
+"id": "sales-analytics-53",
+"type": "html",
+"ko": "매장 현장 결제 데이터"
+},
+{
+"id": "sales-analytics-54",
+"type": "html",
+"ko": "여러 POS사의 결제 내역을 매장·시간대·메뉴 기준으로 수집합니다. 전체 매출, 결제 건수, 객단가와 피크 시간대를 확인하고 다른 판매 채널과 같은 기준으로 비교합니다."
+},
+{
+"id": "sales-analytics-55",
+"type": "html",
+"ko": "포스뱅크"
+},
+{
+"id": "sales-analytics-56",
+"type": "html",
+"ko": "스마트로"
+},
+{
+"id": "sales-analytics-57",
+"type": "html",
+"ko": "다우오피스"
+},
+{
+"id": "sales-analytics-58",
+"type": "html",
+"ko": "toss 매장관리"
+},
+{
+"id": "sales-analytics-59",
+"type": "html",
+"ko": "키오스크 연동 POS"
+},
+{
+"id": "sales-analytics-60",
+"type": "html",
+"ko": "그 외 다수"
+},
+{
+"id": "sales-analytics-61",
+"type": "html",
+"ko": "주요 데이터"
+},
+{
+"id": "sales-analytics-62",
+"type": "html",
+"ko": "결제 금액·주문 건수·메뉴·시간대"
+},
+{
+"id": "sales-analytics-63",
+"type": "html",
+"ko": "매장 실적 비교와 이상 매출 확인"
+},
+{
+"id": "sales-analytics-64",
+"type": "html",
+"ko": "배달앱 매출 연결"
+},
+{
+"id": "sales-analytics-65",
+"type": "html",
+"ko": "배달앱 5개 채널"
+},
+{
+"id": "sales-analytics-66",
+"type": "html",
+"ko": "앱별 주문과 매출, 취소 내역을 한곳에 모읍니다. 채널별 매출 비중과 주문 변화, 시간대별 배달 수요를 비교해 프로모션과 운영 판단에 활용합니다."
+},
+{
+"id": "sales-analytics-67",
+"type": "html",
+"ko": "채널 매출·주문 수·메뉴·취소 내역"
+},
+{
+"id": "sales-analytics-68",
+"type": "html",
+"ko": "앱별 기여도와 배달 수요 분석"
+},
+{
+"id": "sales-analytics-69",
+"type": "html",
+"ko": "특수상권 매출 연결"
+},
+{
+"id": "sales-analytics-70",
+"type": "html",
+"ko": "별도 정산 매장"
+},
+{
+"id": "sales-analytics-71",
+"type": "html",
+"ko": "백화점, 공항, 휴게소와 쇼핑몰처럼 별도 정산 구조를 사용하는 매출도 브랜드의 매장 체계에 맞춰 연결합니다. 상권 유형별 실적과 일반 매장의 차이를 함께 비교합니다."
+},
+{
+"id": "sales-analytics-72",
+"type": "html",
+"ko": "쇼핑몰"
+},
+{
+"id": "sales-analytics-73",
+"type": "html",
+"ko": "상권별 매출·수수료·정산·매장 정보"
+},
+{
+"id": "sales-analytics-74",
+"type": "html",
+"ko": "특수매장 성과와 수익 구조 비교"
+},
+{
+"id": "sales-analytics-75",
+"type": "html",
+"ko": "연동 가능한 채널은 계속 늘어납니다."
+},
+{
+"id": "sales-analytics-76",
+"type": "html",
+"ko": "브랜드가 사용 중인 POS나 새로운 배달·유통 채널이 있다면 도입 상담 시 추가 연동 가능 여부를 확인해 드립니다."
+},
+{
+"id": "sales-analytics-77",
+"type": "html",
+"ko": "연동 채널 문의하기 →"
+},
+{
+"id": "sales-analytics-78",
+"type": "html",
+"ko": "같은 숫자도 여러 기준으로 봅니다"
+},
+{
+"id": "sales-analytics-79",
+"type": "html",
+"ko": "브랜드·지역·매장별 비교"
+},
+{
+"id": "sales-analytics-80",
+"type": "html",
+"ko": "전체 실적에서 지역과 매장 단위로 내려가 성과 차이와 변화 폭을 확인합니다."
+},
+{
+"id": "sales-analytics-81",
+"type": "html",
+"ko": "기간별 추이"
+},
+{
+"id": "sales-analytics-82",
+"type": "html",
+"ko": "일·주·월·분기 단위로 매출 추세와 전주·전월·전년 대비 변화를 비교합니다."
+},
+{
+"id": "sales-analytics-83",
+"type": "html",
+"ko": "채널별 기여도"
+},
+{
+"id": "sales-analytics-84",
+"type": "html",
+"ko": "POS, 특수상권과 각 배달앱이 전체 매출에서 차지하는 비중을 확인합니다."
+},
+{
+"id": "sales-analytics-85",
+"type": "html",
+"ko": "메뉴·상품별 분석"
+},
+{
+"id": "sales-analytics-86",
+"type": "html",
+"ko": "수집 가능한 범위에서 메뉴별 판매량과 매출 기여도, 성장과 감소 흐름을 봅니다."
+},
+{
+"id": "sales-analytics-87",
+"type": "html",
+"ko": "데이터는 어떻게 연결하나요?"
+},
+{
+"id": "sales-analytics-88",
+"type": "html",
+"ko": "현재 채널 확인"
+},
+{
+"id": "sales-analytics-89",
+"type": "html",
+"ko": "사용 중인 POS, 특수상권과 배달앱 계정 및 데이터 항목을 확인합니다."
+},
+{
+"id": "sales-analytics-90",
+"type": "html",
+"ko": "수집 방식 설계"
+},
+{
+"id": "sales-analytics-91",
+"type": "html",
+"ko": "API 자동 연동, 파일 업로드 또는 맞춤 연결 등 가능한 방식을 정합니다."
+},
+{
+"id": "sales-analytics-92",
+"type": "html",
+"ko": "매장·채널 기준 통합"
+},
+{
+"id": "sales-analytics-93",
+"type": "html",
+"ko": "서로 다른 매장명과 매출 항목을 공통 기준으로 매핑하고 검증합니다."
+},
+{
+"id": "sales-analytics-94",
+"type": "html",
+"ko": "대시보드와 권한 적용"
+},
+{
+"id": "sales-analytics-95",
+"type": "html",
+"ko": "경영진, 담당자와 가맹점의 역할에 맞는 조회 범위를 설정합니다."
+},
+{
+"id": "sales-analytics-96",
+"type": "html",
+"ko": "통합된 매출이 AI의 근거가 됩니다"
+},
+{
+"id": "sales-analytics-97",
+"type": "html",
+"ko": "채널별 데이터를 같은 기준으로 쌓으면 단순 조회를 넘어 변화 감지와 예측에 활용할 수 있습니다."
+},
+{
+"id": "sales-analytics-98",
+"type": "html",
+"ko": "매출 하락 감지"
+},
+{
+"id": "sales-analytics-99",
+"type": "html",
+"ko": "평소 추세와 다른 하락이 나타난 매장과 채널을 우선 확인합니다."
+},
+{
+"id": "sales-analytics-100",
+"type": "html",
+"ko": "원인 탐색"
+},
+{
+"id": "sales-analytics-101",
+"type": "html",
+"ko": "기간, 채널, 메뉴와 매장 데이터를 비교해 변화에 영향을 준 요인을 찾습니다."
+},
+{
+"id": "sales-analytics-102",
+"type": "html",
+"ko": "수요 예측"
+},
+{
+"id": "sales-analytics-103",
+"type": "html",
+"ko": "판매 흐름을 발주·재고 데이터와 연결해 향후 수요 예측에 활용합니다."
+},
+{
+"id": "sales-analytics-104",
+"type": "html",
+"ko": "주요 변화와 확인할 매장을 요약한 보고서 초안을 생성합니다."
+},
+{
+"id": "sales-analytics-105",
+"type": "html",
+"ko": "누가 어떻게 활용하나요?"
+},
+{
+"id": "sales-analytics-106",
+"type": "html",
+"ko": "브랜드 전체 매출과 성장·하락 매장을 빠르게 파악해 의사결정에 활용합니다."
+},
+{
+"id": "sales-analytics-107",
+"type": "html",
+"ko": "담당 매장과 채널의 변화를 확인하고 현장 점검과 후속 조치의 우선순위를 정합니다."
+},
+{
+"id": "sales-analytics-108",
+"type": "html",
+"ko": "마케팅 담당자"
+},
+{
+"id": "sales-analytics-109",
+"type": "html",
+"ko": "캠페인 전후의 채널과 메뉴별 매출 변화를 비교해 성과를 확인합니다."
+},
+{
+"id": "sales-analytics-110",
+"type": "html",
+"ko": "권한 범위 내에서 자신의 매장 매출과 채널별 실적을 간편하게 확인합니다."
+},
+{
+"id": "sales-analytics-111",
+"type": "html",
+"ko": "통합 매출 분석 FAQ"
+},
+{
+"id": "sales-analytics-112",
+"type": "html",
+"ko": "프랜차이즈 통합 매출 분석이란 무엇인가요?"
+},
+{
+"id": "sales-analytics-113",
+"type": "html",
+"ko": "POS, 특수상권과 여러 배달앱에 흩어진 매출 데이터를 한곳에 모아 같은 기준으로 조회하고 비교하는 분석 시스템입니다. 프담(fdam)은 POS와 주요 배달앱 매출을 한 화면에서 조회·비교하고 AI 예측까지 연결하는 ㈜엠에스벤터의 프랜차이즈 통합 매출 솔루션입니다."
+},
+{
+"id": "sales-analytics-114",
+"type": "html",
+"ko": "프담 통합 매출은 배달앱 관리자 화면과 무엇이 다른가요?"
+},
+{
+"id": "sales-analytics-115",
+"type": "html",
+"ko": "배달앱 관리자 화면은 앱별·매장별로 따로 확인해야 합니다. 프담은 POS와 여러 배달앱 매출을 같은 기준으로 합쳐 브랜드 전체에서 개별 매장까지 한 번에 비교하고, 평소와 다른 하락 신호를 AI가 먼저 알려줍니다."
+},
+{
+"id": "sales-analytics-116",
+"type": "html",
+"ko": "어떤 배달앱 매출을 확인할 수 있나요?"
+},
+{
+"id": "sales-analytics-117",
+"type": "html",
+"ko": "프담은 배달의민족, 땡겨요, 요기요, 쿠팡이츠, 배달특급 등 연동 가능한 채널을 대상으로 합니다. 실제 지원 범위는 계정과 연동 조건을 확인해 안내합니다."
+},
+{
+"id": "sales-analytics-118",
+"type": "html",
+"ko": "실시간 매출 조회가 가능한가요?"
+},
+{
+"id": "sales-analytics-119",
+"type": "html",
+"ko": "프담의 업데이트 주기는 채널별 수집 방식에 따라 달라집니다. API 연동 주기 또는 파일 반영 시간을 기준으로 안내합니다."
+},
+{
+"id": "sales-analytics-120",
+"type": "html",
+"ko": "기존 POS를 교체해야 하나요?"
+},
+{
+"id": "sales-analytics-121",
+"type": "html",
+"ko": "반드시 교체할 필요는 없습니다. 프담은 현재 POS의 데이터 제공 방식과 연동 가능 여부를 확인한 뒤 적합한 수집 방식을 설계합니다."
+},
+{
+"id": "sales-analytics-122",
+"type": "html",
+"ko": "데이터를 엑셀로 내려받을 수 있나요?"
+},
+{
+"id": "sales-analytics-123",
+"type": "html",
+"ko": "프담의 조회 결과와 보고서 다운로드 범위는 도입 기능과 사용자 권한에 맞춰 구성할 수 있습니다."
+},
+{
+"id": "sales-analytics-124",
+"type": "html",
+"ko": "흩어진 매출부터<br/>하나로 연결하세요."
+},
+{
+"id": "sales-analytics-125",
+"type": "html",
+"ko": "현재 사용하는 POS와 배달 채널을 기준으로 연동 가능 범위를 확인해 드립니다."
+},
+{
+"id": "sales-analytics-126",
+"type": "html",
+"ko": "매출 연동 상담 <span class=\"arrow\">→</span>"
+}
+]

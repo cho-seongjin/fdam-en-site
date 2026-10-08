@@ -1,0 +1,757 @@
+[
+{
+"id": "hq-operations-1",
+"type": "html",
+"ko": "프랜차이즈 본사 ERP 프담 | 가맹 영업·계약·오픈·가맹점 관리"
+},
+{
+"id": "hq-operations-2",
+"type": "attr",
+"ko": "프담(fdam)은 ㈜엠에스벤터가 만든 프랜차이즈 본사 ERP입니다. 가맹 문의와 상담, 전자계약, 매장 오픈 체크리스트, 가맹점 운영과 소통 이력을 하나의 업무 흐름으로 관리하고 AI 예측과 연결합니다."
+},
+{
+"id": "hq-operations-3",
+"type": "html",
+"ko": "가맹 영업부터 매장 운영까지,<br/><span class=\"gradient-text\">끊김 없는 하나의 흐름.</span>"
+},
+{
+"id": "hq-operations-4",
+"type": "html",
+"ko": "상담 기록, 계약, 오픈 일정과 운영 이력을 한곳에 모아 담당자는 다음 일을 놓치지 않고 경영진은 전체 진행 상황을 바로 확인합니다."
+},
+{
+"id": "hq-operations-5",
+"type": "html",
+"ko": "본사 운영 상담"
+},
+{
+"id": "hq-operations-6",
+"type": "html",
+"ko": "업무 흐름 보기"
+},
+{
+"id": "hq-operations-7",
+"type": "html",
+"ko": "30초 요약"
+},
+{
+"id": "hq-operations-8",
+"type": "html",
+"ko": "<b>프랜차이즈 본사 운영 관리</b>는 가맹 문의와 영업 상담부터 계약, 매장 오픈 준비, 오픈 이후 점검과 소통까지 하나의 이력으로 연결하는 일입니다. <b>프담(fdam)</b>은 ㈜엠에스벤터가 만든 프랜차이즈 본사 ERP로, 단계별 담당자·기한·문서를 표준화하고 매장별 진행 상태를 실시간으로 보여줍니다."
+},
+{
+"id": "hq-operations-9",
+"type": "html",
+"ko": "통합 관리란?"
+},
+{
+"id": "hq-operations-10",
+"type": "html",
+"ko": "전체 업무 흐름"
+},
+{
+"id": "hq-operations-11",
+"type": "html",
+"ko": "가맹 영업 관리"
+},
+{
+"id": "hq-operations-12",
+"type": "html",
+"ko": "계약·오픈 관리"
+},
+{
+"id": "hq-operations-13",
+"type": "html",
+"ko": "QSCV·매장 운영"
+},
+{
+"id": "hq-operations-14",
+"type": "html",
+"ko": "협업과 소통"
+},
+{
+"id": "hq-operations-15",
+"type": "html",
+"ko": "도입 효과"
+},
+{
+"id": "hq-operations-16",
+"type": "html",
+"ko": "자주 묻는 질문"
+},
+{
+"id": "hq-operations-17",
+"type": "attr",
+"ko": "페이지 목차"
+},
+{
+"id": "hq-operations-18",
+"type": "html",
+"ko": "프랜차이즈 본사 운영 통합 관리란?"
+},
+{
+"id": "hq-operations-19",
+"type": "html",
+"ko": "프랜차이즈 본사 운영 관리는 가맹 영업, 전자계약, 신규 매장 오픈, 운영 점검과 본사·가맹점 소통을 매장 단위의 하나의 업무 이력으로 연결하고 표준화하는 관리 방식입니다. 프담은 이 과정을 한 시스템에서 처리하는 프랜차이즈 본사 ERP이며, 쌓인 데이터를 AI 예측과 가맹점 앱 소담으로 이어줍니다."
+},
+{
+"id": "hq-operations-20",
+"type": "html",
+"ko": "담당 부서마다 다른 파일과 메신저를 사용하면 정보는 반복 입력되고 인수인계 과정에서 누락됩니다. 프담은 영업 단계에서 입력한 정보를 계약과 오픈, 운영 단계까지 이어지게 해 같은 매장을 여러 번 설명하고 정리하는 일을 줄입니다."
+},
+{
+"id": "hq-operations-21",
+"type": "html",
+"ko": "문의가 들어온 순간부터<br/>운영 매장이 되기까지"
+},
+{
+"id": "hq-operations-22",
+"type": "html",
+"ko": "영업·상담"
+},
+{
+"id": "hq-operations-23",
+"type": "html",
+"ko": "계약"
+},
+{
+"id": "hq-operations-24",
+"type": "html",
+"ko": "오픈 준비"
+},
+{
+"id": "hq-operations-25",
+"type": "html",
+"ko": "운영 관리"
+},
+{
+"id": "hq-operations-26",
+"type": "html",
+"ko": "각 단계는 독립된 메뉴가 아니라 이전 단계의 정보가 다음 단계로 이어지는 흐름입니다. 본사는 매장별 현재 위치와 지연 원인을 보고 담당자는 자신에게 필요한 업무를 우선순위에 따라 처리할 수 있습니다."
+},
+{
+"id": "hq-operations-27",
+"type": "html",
+"ko": "가맹 문의와 상담을<br/>영업 기회로 관리합니다"
+},
+{
+"id": "hq-operations-28",
+"type": "html",
+"ko": "유입된 가맹 문의를 담당자에게 배정하고 상담 내용, 후속 일정, 예상 지역과 예산 등 핵심 정보를 한곳에 기록합니다."
+},
+{
+"id": "hq-operations-29",
+"type": "html",
+"ko": "문의·리드 통합"
+},
+{
+"id": "hq-operations-30",
+"type": "html",
+"ko": "여러 채널에서 들어온 가맹 문의를 기준에 맞게 정리하고 중복과 누락을 줄입니다."
+},
+{
+"id": "hq-operations-31",
+"type": "html",
+"ko": "상담 파이프라인"
+},
+{
+"id": "hq-operations-32",
+"type": "html",
+"ko": "신규 문의, 상담 중, 검토, 계약 예정 등 브랜드에 맞는 단계로 영업 현황을 시각화합니다."
+},
+{
+"id": "hq-operations-33",
+"type": "html",
+"ko": "AI 회의록"
+},
+{
+"id": "hq-operations-34",
+"type": "html",
+"ko": "상담 통화와 회의 내용을 AI가 회의록으로 정리하고 주요 질문, 결정 사항과 다음 액션을 영업 이력에 남깁니다."
+},
+{
+"id": "hq-operations-35",
+"type": "html",
+"ko": "계약과 오픈 준비를<br/>하나의 체크리스트로"
+},
+{
+"id": "hq-operations-36",
+"type": "html",
+"ko": "계약 체결 이후 점포 개발, 공사, 교육, 인허가, 초도 물류 등 여러 부서가 참여하는 업무를 매장별 일정과 체크리스트로 관리합니다."
+},
+{
+"id": "hq-operations-37",
+"type": "html",
+"ko": "전자계약 연계"
+},
+{
+"id": "hq-operations-38",
+"type": "html",
+"ko": "계약 정보 연결"
+},
+{
+"id": "hq-operations-39",
+"type": "html",
+"ko": "계약 정보와 필수 문서를 다음 단계의 오픈 정보로 이어 중복 입력을 줄입니다."
+},
+{
+"id": "hq-operations-40",
+"type": "html",
+"ko": "오픈 캘린더"
+},
+{
+"id": "hq-operations-41",
+"type": "html",
+"ko": "예정일과 주요 마일스톤을 달력과 목록에서 확인합니다."
+},
+{
+"id": "hq-operations-42",
+"type": "html",
+"ko": "업무 표준화"
+},
+{
+"id": "hq-operations-43",
+"type": "html",
+"ko": "부서별 체크리스트"
+},
+{
+"id": "hq-operations-44",
+"type": "html",
+"ko": "브랜드 기준에 맞는 필수 업무와 완료 조건을 설정합니다."
+},
+{
+"id": "hq-operations-45",
+"type": "html",
+"ko": "지연 예방"
+},
+{
+"id": "hq-operations-46",
+"type": "html",
+"ko": "담당자 알림"
+},
+{
+"id": "hq-operations-47",
+"type": "html",
+"ko": "기한이 가까워지거나 선행 업무가 끝나면 다음 담당자에게 알립니다."
+},
+{
+"id": "hq-operations-48",
+"type": "html",
+"ko": "오픈 이후의 매장도<br/>같은 기준으로 관리합니다"
+},
+{
+"id": "hq-operations-49",
+"type": "html",
+"ko": "슈퍼바이저의 QSCV 점검 결과가 매장별 점수와 이력으로 쌓이고, 미흡 항목은 개선 요청으로 바로 이어집니다. 가맹점의 조치와 본사 확인까지 한 흐름으로 추적하고, POS·배달앱 매출과 발주·재고 데이터를 함께 보며 현장 이슈와 실제 성과를 비교합니다."
+},
+{
+"id": "hq-operations-50",
+"type": "html",
+"ko": "Quality · 품질"
+},
+{
+"id": "hq-operations-51",
+"type": "html",
+"ko": "레시피와 조리 기준, 식자재 보관·유통기한 준수"
+},
+{
+"id": "hq-operations-52",
+"type": "html",
+"ko": "Service · 서비스"
+},
+{
+"id": "hq-operations-53",
+"type": "html",
+"ko": "고객 응대, 주문 처리 시간, 배달 포장 상태"
+},
+{
+"id": "hq-operations-54",
+"type": "html",
+"ko": "Cleanliness · 청결"
+},
+{
+"id": "hq-operations-55",
+"type": "html",
+"ko": "주방·홀 위생, 설비와 배기 관리, 개인 위생"
+},
+{
+"id": "hq-operations-56",
+"type": "html",
+"ko": "Value · 가치"
+},
+{
+"id": "hq-operations-57",
+"type": "html",
+"ko": "가격·메뉴 구성 준수, 프로모션과 브랜드 기준 운영"
+},
+{
+"id": "hq-operations-58",
+"type": "html",
+"ko": "QSCV 점검 · 10월 1일 · 김지훈 SV"
+},
+{
+"id": "hq-operations-59",
+"type": "html",
+"ko": "점"
+},
+{
+"id": "hq-operations-60",
+"type": "html",
+"ko": "Q 품질"
+},
+{
+"id": "hq-operations-61",
+"type": "html",
+"ko": "S 서비스"
+},
+{
+"id": "hq-operations-62",
+"type": "html",
+"ko": "C 청결"
+},
+{
+"id": "hq-operations-63",
+"type": "html",
+"ko": "V 가치"
+},
+{
+"id": "hq-operations-64",
+"type": "html",
+"ko": "개선 요청"
+},
+{
+"id": "hq-operations-65",
+"type": "html",
+"ko": "주방 후드·배기 청소 미흡"
+},
+{
+"id": "hq-operations-66",
+"type": "html",
+"ko": "기한 10/05"
+},
+{
+"id": "hq-operations-67",
+"type": "html",
+"ko": "점검"
+},
+{
+"id": "hq-operations-68",
+"type": "html",
+"ko": "매장 조치"
+},
+{
+"id": "hq-operations-69",
+"type": "html",
+"ko": "본사 확인"
+},
+{
+"id": "hq-operations-70",
+"type": "html",
+"ko": "가맹점이 소담에서 조치 사진을 올리면 담당 SV가 확인하고 재점검 일정을 잡습니다."
+},
+{
+"id": "hq-operations-71",
+"type": "attr",
+"ko": "QSCV 점검 결과와 개선 요청 화면 예시"
+},
+{
+"id": "hq-operations-72",
+"type": "html",
+"ko": "QSCV 점검"
+},
+{
+"id": "hq-operations-73",
+"type": "html",
+"ko": "브랜드 기준에 맞춘 점검표로 항목별 점수와 사진을 남기고, 매장·지역·기간별 점수 추이를 비교합니다."
+},
+{
+"id": "hq-operations-74",
+"type": "html",
+"ko": "개선 요청·조치 관리"
+},
+{
+"id": "hq-operations-75",
+"type": "html",
+"ko": "미흡 항목을 담당자와 기한이 있는 개선 요청으로 등록하고, 가맹점 조치부터 본사 확인과 재점검까지 완료 여부를 추적합니다."
+},
+{
+"id": "hq-operations-76",
+"type": "html",
+"ko": "이슈·요청 관리"
+},
+{
+"id": "hq-operations-77",
+"type": "html",
+"ko": "가맹점 문의와 본사 지원 이력을 담당자, 상태, 처리 기한과 함께 관리합니다."
+},
+{
+"id": "hq-operations-78",
+"type": "html",
+"ko": "AI 이상징후 알림"
+},
+{
+"id": "hq-operations-79",
+"type": "html",
+"ko": "매출·발주·점검 데이터에서 평소와 다른 변화를 찾아 확인이 필요한 매장과 원인을 먼저 알려줍니다."
+},
+{
+"id": "hq-operations-80",
+"type": "html",
+"ko": "본사와 가맹점이<br/>같은 정보를 보게 합니다"
+},
+{
+"id": "hq-operations-81",
+"type": "html",
+"ko": "본사는 프담에서 브랜드 전체와 매장별 현황을 관리하고, 가맹점은 소담에서 발주, 재고, 공지, CS, 설문 등 본사와 소통 업무를 처리합니다. 역할에 따라 화면은 다르지만 데이터와 업무 이력은 연결됩니다."
+},
+{
+"id": "hq-operations-82",
+"type": "html",
+"ko": "영업·오픈·운영 현황, QSCV와 개선 요청, 통합 매출과 AI 이상징후를 전체 가맹점 단위로 관리합니다."
+},
+{
+"id": "hq-operations-83",
+"type": "html",
+"ko": "본사 운영 대시보드"
+},
+{
+"id": "hq-operations-84",
+"type": "html",
+"ko": "가맹점 운영 현황"
+},
+{
+"id": "hq-operations-85",
+"type": "text",
+"ko": "매장 검색"
+},
+{
+"id": "hq-operations-86",
+"type": "html",
+"ko": "진행 중 가맹 상담"
+},
+{
+"id": "hq-operations-87",
+"type": "html",
+"ko": "건"
+},
+{
+"id": "hq-operations-88",
+"type": "html",
+"ko": "+6 이번 주"
+},
+{
+"id": "hq-operations-89",
+"type": "html",
+"ko": "곳"
+},
+{
+"id": "hq-operations-90",
+"type": "html",
+"ko": "D-12 성수점"
+},
+{
+"id": "hq-operations-91",
+"type": "html",
+"ko": "QSCV 평균"
+},
+{
+"id": "hq-operations-92",
+"type": "html",
+"ko": "▲ 2.4점"
+},
+{
+"id": "hq-operations-93",
+"type": "html",
+"ko": "조치 중 4"
+},
+{
+"id": "hq-operations-94",
+"type": "html",
+"ko": "주간 매출 추이<small>전체 128개 매장</small>"
+},
+{
+"id": "hq-operations-95",
+"type": "html",
+"ko": "<span class=\"fdw-live\"></span>매장 이슈"
+},
+{
+"id": "hq-operations-96",
+"type": "html",
+"ko": "AI 이상징후 · 점심 배달 −32%"
+},
+{
+"id": "hq-operations-97",
+"type": "html",
+"ko": "방금"
+},
+{
+"id": "hq-operations-98",
+"type": "html",
+"ko": "개선 요청 · 후드 청소 조치 중"
+},
+{
+"id": "hq-operations-99",
+"type": "html",
+"ko": "12분"
+},
+{
+"id": "hq-operations-100",
+"type": "html",
+"ko": "오픈 체크리스트 82% 완료"
+},
+{
+"id": "hq-operations-101",
+"type": "html",
+"ko": "1시간"
+},
+{
+"id": "hq-operations-102",
+"type": "html",
+"ko": "본사 설문 응답 완료"
+},
+{
+"id": "hq-operations-103",
+"type": "html",
+"ko": "2시간"
+},
+{
+"id": "hq-operations-104",
+"type": "attr",
+"ko": "프담 본사 운영 대시보드 화면 예시"
+},
+{
+"id": "hq-operations-105",
+"type": "html",
+"ko": "가맹점"
+},
+{
+"id": "hq-operations-106",
+"type": "html",
+"ko": "발주, 재고, 공지·설문, CS와 직원 관리를 매장 단위로 처리하고 결과는 프담에 바로 공유됩니다."
+},
+{
+"id": "hq-operations-107",
+"type": "html",
+"ko": "점주님, 안녕하세요"
+},
+{
+"id": "hq-operations-108",
+"type": "html",
+"ko": "강남점 대시보드"
+},
+{
+"id": "hq-operations-109",
+"type": "html",
+"ko": "오늘 확인할 지표를 모았어요."
+},
+{
+"id": "hq-operations-110",
+"type": "html",
+"ko": "오늘 근무"
+},
+{
+"id": "hq-operations-111",
+"type": "html",
+"ko": "09:02 출근 · 근무 중"
+},
+{
+"id": "hq-operations-112",
+"type": "html",
+"ko": "퇴근"
+},
+{
+"id": "hq-operations-113",
+"type": "html",
+"ko": "오늘 발주 건수"
+},
+{
+"id": "hq-operations-114",
+"type": "html",
+"ko": "AI 추천 18품목"
+},
+{
+"id": "hq-operations-115",
+"type": "html",
+"ko": "만원"
+},
+{
+"id": "hq-operations-116",
+"type": "html",
+"ko": "▲ 8.2% 전월 대비"
+},
+{
+"id": "hq-operations-117",
+"type": "html",
+"ko": "결품 위험 1"
+},
+{
+"id": "hq-operations-118",
+"type": "html",
+"ko": "직원 현황"
+},
+{
+"id": "hq-operations-119",
+"type": "html",
+"ko": "/6명"
+},
+{
+"id": "hq-operations-120",
+"type": "html",
+"ko": "휴가 1 · 근무 중 4"
+},
+{
+"id": "hq-operations-121",
+"type": "html",
+"ko": "CS 요청"
+},
+{
+"id": "hq-operations-122",
+"type": "html",
+"ko": "처리 대기"
+},
+{
+"id": "hq-operations-123",
+"type": "html",
+"ko": "본사 설문"
+},
+{
+"id": "hq-operations-124",
+"type": "html",
+"ko": "응답 필요"
+},
+{
+"id": "hq-operations-125",
+"type": "html",
+"ko": "매출 추이<small>최근 7일</small>"
+},
+{
+"id": "hq-operations-126",
+"type": "attr",
+"ko": "소담 매장 대시보드 화면 예시"
+},
+{
+"id": "hq-operations-127",
+"type": "html",
+"ko": "운영 관리가 달라지는 지점"
+},
+{
+"id": "hq-operations-128",
+"type": "html",
+"ko": "진행 상황을 묻는 시간이 줄어듭니다"
+},
+{
+"id": "hq-operations-129",
+"type": "html",
+"ko": "담당자와 경영진이 같은 화면에서 최신 상태와 지연 항목을 확인합니다."
+},
+{
+"id": "hq-operations-130",
+"type": "html",
+"ko": "담당자가 바뀌어도 이력이 남습니다"
+},
+{
+"id": "hq-operations-131",
+"type": "html",
+"ko": "상담부터 운영까지 매장별 업무와 커뮤니케이션 기록이 이어집니다."
+},
+{
+"id": "hq-operations-132",
+"type": "html",
+"ko": "브랜드의 운영 기준이 표준화됩니다"
+},
+{
+"id": "hq-operations-133",
+"type": "html",
+"ko": "체크리스트와 완료 조건을 시스템에 반영해 담당자마다 다른 처리 방식을 줄입니다."
+},
+{
+"id": "hq-operations-134",
+"type": "html",
+"ko": "매장 문제를 더 빨리 발견합니다"
+},
+{
+"id": "hq-operations-135",
+"type": "html",
+"ko": "운영 이력과 매출·발주·재고 데이터를 함께 보며 문제의 원인을 입체적으로 판단합니다."
+},
+{
+"id": "hq-operations-136",
+"type": "html",
+"ko": "프랜차이즈 본사 운영 FAQ"
+},
+{
+"id": "hq-operations-137",
+"type": "html",
+"ko": "프랜차이즈 본사 운영 관리 시스템은 무엇인가요?"
+},
+{
+"id": "hq-operations-138",
+"type": "html",
+"ko": "가맹 문의, 상담, 계약, 오픈 준비, 매장 운영과 본사·가맹점 소통을 하나의 데이터 흐름으로 관리하는 시스템입니다. 프담(fdam)은 이 흐름을 한 시스템에서 관리하는 ㈜엠에스벤터의 프랜차이즈 본사 ERP입니다."
+},
+{
+"id": "hq-operations-139",
+"type": "html",
+"ko": "프담은 엑셀·메신저로 관리하는 것과 무엇이 다른가요?"
+},
+{
+"id": "hq-operations-140",
+"type": "html",
+"ko": "엑셀과 메신저에서는 영업·계약·오픈·점검 기록이 담당자별로 흩어져 이력이 끊깁니다. 프담은 이 기록을 매장 단위의 하나의 이력으로 모으고, 매출과 운영 데이터까지 연결해 AI가 확인할 매장과 다음 업무를 제안합니다."
+},
+{
+"id": "hq-operations-141",
+"type": "html",
+"ko": "브랜드별 업무 절차를 반영할 수 있나요?"
+},
+{
+"id": "hq-operations-142",
+"type": "html",
+"ko": "네. 프담은 영업 단계, 오픈 체크리스트, 운영 점검 항목 등 브랜드의 실제 프로세스에 맞춰 관리 구조를 설정합니다. 구체적인 범위는 도입 상담에서 확인합니다."
+},
+{
+"id": "hq-operations-143",
+"type": "html",
+"ko": "가맹점 오픈 진행 상황을 어떻게 확인하나요?"
+},
+{
+"id": "hq-operations-144",
+"type": "html",
+"ko": "프담에서는 매장별 일정, 담당자, 부서별 체크리스트, 필수 문서와 완료 상태를 한 화면에서 확인하고 지연 항목을 관리할 수 있습니다."
+},
+{
+"id": "hq-operations-145",
+"type": "html",
+"ko": "기존 데이터도 옮길 수 있나요?"
+},
+{
+"id": "hq-operations-146",
+"type": "html",
+"ko": "프담 도입 시 현재 데이터의 형식과 품질을 확인한 뒤 이전 범위와 방식을 정합니다. 엑셀 자료나 기존 시스템 데이터는 항목 매핑이 필요할 수 있습니다."
+},
+{
+"id": "hq-operations-147",
+"type": "html",
+"ko": "본사와 가맹점의 권한은 어떻게 나뉘나요?"
+},
+{
+"id": "hq-operations-148",
+"type": "html",
+"ko": "프담은 본사 관리자, 부서 담당자, 슈퍼바이저, 가맹점주와 직원 등 역할별로 조회와 처리 범위를 구분해 설계할 수 있습니다. 가맹점 업무는 소담으로 연결됩니다."
+},
+{
+"id": "hq-operations-149",
+"type": "html",
+"ko": "우리 브랜드의 운영 흐름,<br/>그대로 연결해 보세요."
+},
+{
+"id": "hq-operations-150",
+"type": "html",
+"ko": "현재 업무 방식과 필요한 기능을 기준으로 도입 범위를 함께 설계합니다."
+},
+{
+"id": "hq-operations-151",
+"type": "html",
+"ko": "본사 운영 상담 <span class=\"arrow\">→</span>"
+}
+]

@@ -1,0 +1,247 @@
+[
+{
+"id": "contact-1",
+"type": "html",
+"ko": "프담 도입 문의 | 프랜차이즈 통합 운영·AI 플랫폼 상담"
+},
+{
+"id": "contact-2",
+"type": "attr",
+"ko": "프담 AI 플랫폼, 본사 운영 관리, 통합 매출, 소담 도입을 상담하세요. 브랜드 규모와 현재 시스템에 맞는 도입 방법을 안내합니다."
+},
+{
+"id": "contact-3",
+"type": "html",
+"ko": "운영의 다음을<br/><span class=\"gradient-text\">함께 설계합니다.</span>"
+},
+{
+"id": "contact-4",
+"type": "html",
+"ko": "현재 사용 중인 시스템과 가장 먼저 해결하고 싶은 문제를 알려주세요. 브랜드에 맞는 도입 범위와 연결 방법을 안내해 드립니다."
+},
+{
+"id": "contact-5",
+"type": "html",
+"ko": "브랜드 현황 확인"
+},
+{
+"id": "contact-6",
+"type": "html",
+"ko": "매장 수, 운영 방식과 현재 시스템을 확인합니다."
+},
+{
+"id": "contact-7",
+"type": "html",
+"ko": "우선 과제 정의"
+},
+{
+"id": "contact-8",
+"type": "html",
+"ko": "AI, 본사 운영, 통합 매출, 소담 중 필요한 영역을 정합니다."
+},
+{
+"id": "contact-9",
+"type": "html",
+"ko": "도입 방안 제안"
+},
+{
+"id": "contact-10",
+"type": "html",
+"ko": "데이터 연동 범위와 단계별 적용 계획을 안내합니다."
+},
+{
+"id": "contact-11",
+"type": "html",
+"ko": "도입 상담 신청"
+},
+{
+"id": "contact-12",
+"type": "html",
+"ko": "필수 정보를 남겨주시면 담당자가 확인 후 연락드립니다."
+},
+{
+"id": "contact-13",
+"type": "html",
+"ko": "브랜드·회사명 *"
+},
+{
+"id": "contact-14",
+"type": "attr",
+"ko": "예: 프담프랜차이즈"
+},
+{
+"id": "contact-15",
+"type": "html",
+"ko": "담당자명 *"
+},
+{
+"id": "contact-16",
+"type": "attr",
+"ko": "성함을 입력해 주세요"
+},
+{
+"id": "contact-17",
+"type": "html",
+"ko": "업무용 이메일 *"
+},
+{
+"id": "contact-18",
+"type": "html",
+"ko": "연락처 *"
+},
+{
+"id": "contact-19",
+"type": "html",
+"ko": "업종"
+},
+{
+"id": "contact-20",
+"type": "html",
+"ko": "선택해 주세요"
+},
+{
+"id": "contact-21",
+"type": "html",
+"ko": "외식·카페"
+},
+{
+"id": "contact-22",
+"type": "html",
+"ko": "도소매·서비스"
+},
+{
+"id": "contact-23",
+"type": "html",
+"ko": "교육"
+},
+{
+"id": "contact-24",
+"type": "html",
+"ko": "기타"
+},
+{
+"id": "contact-25",
+"type": "html",
+"ko": "전체 매장 수"
+},
+{
+"id": "contact-26",
+"type": "html",
+"ko": "1~10개"
+},
+{
+"id": "contact-27",
+"type": "html",
+"ko": "11~50개"
+},
+{
+"id": "contact-28",
+"type": "html",
+"ko": "51~100개"
+},
+{
+"id": "contact-29",
+"type": "html",
+"ko": "101~300개"
+},
+{
+"id": "contact-30",
+"type": "html",
+"ko": "301개 이상"
+},
+{
+"id": "contact-31",
+"type": "html",
+"ko": "관심 영역 *"
+},
+{
+"id": "contact-32",
+"type": "html",
+"ko": "AI 예측·업무 자동화"
+},
+{
+"id": "contact-33",
+"type": "html",
+"ko": "가맹 영업·오픈·운영 관리"
+},
+{
+"id": "contact-34",
+"type": "html",
+"ko": "POS·배달앱 통합 매출"
+},
+{
+"id": "contact-35",
+"type": "html",
+"ko": "소담 발주·재고·가맹점 관리"
+},
+{
+"id": "contact-36",
+"type": "html",
+"ko": "전체 플랫폼"
+},
+{
+"id": "contact-37",
+"type": "html",
+"ko": "프담을 어떻게 알게 되셨나요?"
+},
+{
+"id": "contact-38",
+"type": "html",
+"ko": "네이버·구글 검색"
+},
+{
+"id": "contact-39",
+"type": "html",
+"ko": "프담 블로그·콘텐츠"
+},
+{
+"id": "contact-40",
+"type": "html",
+"ko": "온라인 광고"
+},
+{
+"id": "contact-41",
+"type": "html",
+"ko": "지인·파트너 추천"
+},
+{
+"id": "contact-42",
+"type": "html",
+"ko": "박람회·세미나·행사"
+},
+{
+"id": "contact-43",
+"type": "html",
+"ko": "기존 고객·관계사"
+},
+{
+"id": "contact-44",
+"type": "html",
+"ko": "가장 해결하고 싶은 문제"
+},
+{
+"id": "contact-45",
+"type": "attr",
+"ko": "현재 업무 방식과 필요한 기능을 자유롭게 적어주세요."
+},
+{
+"id": "contact-46",
+"type": "html",
+"ko": "선택한 경로와 함께 광고·검색 캠페인 정보가 자동으로 기록되어 상담 유입 분석에 활용됩니다."
+},
+{
+"id": "contact-47",
+"type": "html",
+"ko": "도입 상담과 유입 분석을 위한 개인정보 수집 및 이용에 동의합니다. 실제 적용 시 개인정보처리방침 링크와 보유 기간을 연결해 주세요."
+},
+{
+"id": "contact-48",
+"type": "html",
+"ko": "상담 신청하기 <span class=\"arrow\">→</span>"
+},
+{
+"id": "contact-49",
+"type": "html",
+"ko": "초안에서는 전송되지 않습니다. 실제 운영 시 CRM 또는 이메일 수신 시스템을 연결해 주세요."
+}
+]

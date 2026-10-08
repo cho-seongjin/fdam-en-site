@@ -1,0 +1,69 @@
+name: Sync English blog
+
+on:
+  schedule:
+    - cron: "0 20 * * *"   # every day 05:00 KST
+  workflow_dispatch:        # "Run workflow" button for a manual sync
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: en-site
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Fetch new Korean posts
+        working-directory: build
+        run: python sync_blog.py
+
+      - name: Translate new posts (Claude API)
+        working-directory: build
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MAX_POSTS: "5"
+        run: python translate_new.py
+
+      - name: Build English site
+        working-directory: build
+        run: |
+          python build_en.py
+          python build_blog.py
+
+      - name: Save new posts and translations to the repo
+        run: |
+          git config user.name "fdam-bot"
+          git config user.email "fdam-bot@users.noreply.github.com"
+          git add build/blog
+          git diff --cached --quiet || git commit -m "blog: sync $(date -u +%F)" && git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: build/out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
