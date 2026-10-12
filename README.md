@@ -11,14 +11,14 @@
 
 ## 처음 한 번만 하는 설정
 
-1. **GitHub 저장소 만들기** — 이 폴더를 GitHub 저장소(예: `fdam-en-site`)로 올립니다.
+1. **GitHub 저장소** — `cho-seongjin/fdam-en-site` (Public). 회사 계정이 생기면 Settings → Transfer로 옮길 수 있습니다(옮긴 뒤 DNS CNAME 대상도 새 계정으로 변경).
    - 무료 계정에서 GitHub Pages를 쓰려면 저장소가 **Public**이어야 합니다(유료 조직이면 Private 가능). 저장소에는 공개 사이트 내용과 스크립트만 있고, API 키는 들어가지 않습니다.
 2. **API 키 등록** — 저장소 Settings → Secrets and variables → Actions → New repository secret
    - 이름 `ANTHROPIC_API_KEY`, 값: console.anthropic.com에서 발급한 회사 API 키
 3. **Pages 켜기** — Settings → Pages → Build and deployment → Source: **GitHub Actions**
 4. **도메인 연결** — Settings → Pages → Custom domain에 `en.fdam.co.kr` 입력 후 저장, **Enforce HTTPS** 체크
 5. **DNS 변경(내부 직원)** — en.fdam.co.kr의 DNS 레코드를 아래로 바꿉니다.
-   - `CNAME  en  →  <GitHub 계정 또는 조직명>.github.io`
+   - `CNAME  en  →  cho-seongjin.github.io`
    - 기존 A 레코드(222.239.220.203)는 삭제. 변경 후 반영까지 수 분~수 시간.
 6. **첫 실행** — Actions 탭 → "Sync English blog" → **Run workflow**
 
@@ -27,7 +27,7 @@
 - 수동 실행: Actions → Sync English blog → Run workflow (새 글을 바로 반영하고 싶을 때)
 - 실패 알림: 실행이 실패하면 GitHub가 저장소 관리자에게 이메일을 보냅니다. 번역에 실패한 글은 다음 날 자동으로 다시 시도합니다.
 - 번역 수정: `build/blog/en/<글번호>.json`의 title/description/html을 고쳐 커밋하면 자동으로 다시 배포됩니다.
-- 한국어 메인·서브페이지를 바꿨을 때: `ko-src/`를 새 dist로 교체하고, 바뀐 문구 번역을 `build/tr/`에 추가한 뒤 커밋합니다(이 작업은 요청 주시면 처리).
+- 한국어 메인·서브페이지를 바꿨을 때: `ko-src/`를 새 dist로 교체하고, 바뀐 문구 번역을 `build/tr_extra.json`(한국어 원문 → 영어)에 추가한 뒤 커밋합니다. 빌드 로그의 `missing translations`가 0인지 확인합니다(이 작업은 요청 주시면 처리).
 
 ## 비용
 

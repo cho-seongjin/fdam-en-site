@@ -3,7 +3,7 @@ import io, json, re, os, shutil, glob, copy
 from bs4 import BeautifulSoup, NavigableString
 from i18n import parse, units, HANGUL
 
-DIST = '../dist/'
+DIST = os.environ.get('KO_SRC', '../dist/')
 OUT = 'out/'
 EN = 'https://en.fdam.co.kr'
 KO = 'https://fdam.co.kr'
@@ -44,6 +44,8 @@ OVERRIDE = {
 T.update(OVERRIDE)
 if os.path.exists('clients_tr.json'):
     T.update(json.load(io.open('clients_tr.json', encoding='utf-8')))  # client logo alt text
+if os.path.exists('tr_extra.json'):
+    T.update(json.load(io.open('tr_extra.json', encoding='utf-8')))  # strings added after the first translation batch
 
 
 # extra strings that live only inside JSON-LD

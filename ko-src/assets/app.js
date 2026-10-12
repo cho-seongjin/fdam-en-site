@@ -829,9 +829,15 @@ if (initialAnchor && document.querySelector('.fdam-root')) {
   if (document.readyState === 'complete') settle(); else window.addEventListener('load', settle, { once: true });
 }
 
-// Client logos are served from en.fdam.co.kr; fall back to the original files if the optimized copy isn't there yet.
-document.querySelectorAll('.logo-chip img[data-fallback]').forEach((img) => {
-  const swap = () => { if (img.dataset.fallback && img.src !== img.dataset.fallback) { img.src = img.dataset.fallback; img.removeAttribute('data-fallback'); } };
-  img.addEventListener('error', swap, { once: true });
-  if (img.complete && img.naturalWidth === 0) swap();
+// Client logo rows are written once in HTML; clone each track so the -50% roll loops seamlessly.
+document.querySelectorAll('.logo-marquee-track').forEach((track) => {
+  if (track.dataset.cloned) return;
+  track.dataset.cloned = '1';
+  [...track.children].forEach((chip) => {
+    const copy = chip.cloneNode(true);
+    copy.setAttribute('aria-hidden', 'true');
+    copy.removeAttribute('role');
+    copy.querySelectorAll('img').forEach((img) => { img.alt = ''; });
+    track.appendChild(copy);
+  });
 });
